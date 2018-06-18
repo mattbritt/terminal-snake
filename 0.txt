@@ -1,0 +1,37 @@
+[LEVEL]
+Level 0=LEVEL_NAME
+An empty introductory level to the snake game experience=LEVEL_DESCRIPTION
+1.txt=NEXT_LEVEL
+[CODES]
+|=WALL
+-=WALL
+ =EMPTY
+[COLORS]
+-=BLUE
+ =GREEN
+|=RED
+[BACK_COLORS]
+ =GREEN
+[START]
+--------------------------------------------------------------------------------
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+|                                                                              |
+--------------------------------------------------------------------------------
+[END]

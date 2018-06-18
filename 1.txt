@@ -1,0 +1,39 @@
+[LEVEL]
+Level 1=LEVEL_NAME
+Making it a little more interesting . . .=LEVEL_DESCRIPTION
+90=TIME
+3=LIVES
+2.txt=NEXT_LEVEL
+[CODES]
+s=SNAKE
+#=WALL
+ =EMPTY
+[COLORS]
+#=BLACK
+ =GREEN
+[BACK_COLORS]
+#=BLACK
+ =BLUE
+[START]
+################################################################################
+#                              ##                                              #
+#                              ##                                              #
+#                              ##                                              #
+#                              ##                                              #
+#                              ##                                              #
+#                              ##                                              #
+#                                                                              #
+#                                                                              #
+#                                                                              #
+#                                                                              #
+#                                                                              #
+#                                                                              #
+#                                                                              #
+#                                           ##                                 #
+#                                           ##                                 #
+#       s                                   ##                                 #
+#                                           ##                                 #
+#                                           ##                                 #
+#                                           ##                                 #
+################################################################################
+[END]
